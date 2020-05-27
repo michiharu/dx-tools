@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "//michiharu.github.io/dx-tools/static/js/main.654826e1.chunk.js",
-    "main.js.map": "//michiharu.github.io/dx-tools/static/js/main.654826e1.chunk.js.map",
-    "runtime-main.js": "//michiharu.github.io/dx-tools/static/js/runtime-main.bca026f3.js",
-    "runtime-main.js.map": "//michiharu.github.io/dx-tools/static/js/runtime-main.bca026f3.js.map",
-    "static/js/2.74ae9b0d.chunk.js": "//michiharu.github.io/dx-tools/static/js/2.74ae9b0d.chunk.js",
-    "static/js/2.74ae9b0d.chunk.js.map": "//michiharu.github.io/dx-tools/static/js/2.74ae9b0d.chunk.js.map",
-    "index.html": "//michiharu.github.io/dx-tools/index.html",
-    "precache-manifest.6a897ce96bf3c80ff91d68a6252477eb.js": "//michiharu.github.io/dx-tools/precache-manifest.6a897ce96bf3c80ff91d68a6252477eb.js",
-    "service-worker.js": "//michiharu.github.io/dx-tools/service-worker.js",
-    "static/js/2.74ae9b0d.chunk.js.LICENSE.txt": "//michiharu.github.io/dx-tools/static/js/2.74ae9b0d.chunk.js.LICENSE.txt"
+    "main.js": "/dx-tools/static/js/main.06785af1.chunk.js",
+    "main.js.map": "/dx-tools/static/js/main.06785af1.chunk.js.map",
+    "runtime-main.js": "/dx-tools/static/js/runtime-main.20149552.js",
+    "runtime-main.js.map": "/dx-tools/static/js/runtime-main.20149552.js.map",
+    "static/js/2.74ae9b0d.chunk.js": "/dx-tools/static/js/2.74ae9b0d.chunk.js",
+    "static/js/2.74ae9b0d.chunk.js.map": "/dx-tools/static/js/2.74ae9b0d.chunk.js.map",
+    "index.html": "/dx-tools/index.html",
+    "precache-manifest.d9140ad8e077970f6a2cb692e3a1f9f9.js": "/dx-tools/precache-manifest.d9140ad8e077970f6a2cb692e3a1f9f9.js",
+    "service-worker.js": "/dx-tools/service-worker.js",
+    "static/js/2.74ae9b0d.chunk.js.LICENSE.txt": "/dx-tools/static/js/2.74ae9b0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bca026f3.js",
+    "static/js/runtime-main.20149552.js",
     "static/js/2.74ae9b0d.chunk.js",
-    "static/js/main.654826e1.chunk.js"
+    "static/js/main.06785af1.chunk.js"
   ]
 }
