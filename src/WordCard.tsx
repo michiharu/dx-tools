@@ -53,7 +53,7 @@ export default function WordCard() {
         </Typography>
       </CardContent>
       <Box display="flex" flexDirection="row" justifyContent="center" pb={1}>
-        <IconButton>
+        <IconButton disabled={fix}>
           <AutorenewIcon />
         </IconButton>
       </Box>
